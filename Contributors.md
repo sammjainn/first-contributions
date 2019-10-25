@@ -23,6 +23,7 @@
 - [Prince](https://github.com/Prince-Shivaram)
 - [Snehit Mishra] (https://github.com/snehit31)
 - [sidiousvic] (https://github.com/sidiousvic)
+- [Samriddhi Jain] (https://github.com/sammjainn)
 - [Jon Josephson](https://github.com/gr8fuldwg)
 - [Joema Nequinto](https://github.com/JoemaNequinto)
 - [Bawilu-Mafuta Beker](https://github.com/Dayenkai)
